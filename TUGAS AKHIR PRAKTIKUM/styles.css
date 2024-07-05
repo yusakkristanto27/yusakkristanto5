@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    background-color:aquamarine;
+}
+
+header {
+    background-color:coral;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li a {
+    display: inline;
+    margin: 0 10px;
+    color:chartreuse;
+    /* margin-left: auto; */
+   
+   
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: black;
+    color:aliceblue;
+}
+
+table, th, td {
+    border: 1px solid bisque;
+    padding: 10px;
+    text-align: left;
+}
+
